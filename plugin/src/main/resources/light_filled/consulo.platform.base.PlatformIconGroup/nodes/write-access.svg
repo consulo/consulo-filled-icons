@@ -1,0 +1,7 @@
+<!-- Copyright 2000-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g fill="#F26522">
+    <polygon points="12.79 5.29 10.5 3 7.9 5.6 8.47 6.08 10.5 4.06 13.93 7.5 10.49 10.94 8.47 8.92 7.89 9.4 10.49 12 15 7.5"/>
+    <polygon points="6 10 9 7.5 6 5 6 7 2 7 2 8 6 8"/>
+  </g>
+</svg>
